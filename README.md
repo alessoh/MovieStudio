@@ -422,7 +422,9 @@ Note: Actual video generation costs (Runway, etc.) not included as APIs are not 
 **CONTACT
 
 Homepage: [Video Software Lab](https://www.videosoftwarelab.com/)
+
 Email: info@ai-hive.net
+
 GitHub: [https://github.com/alessoh/MovieStudio]
 
 For any questions, feedback, or bug reports, please open an issue in the GitHub repository or contact us via email
