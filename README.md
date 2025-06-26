@@ -419,9 +419,12 @@ Note: Actual video generation costs (Runway, etc.) not included as APIs are not 
 **⚠️ Important Note**: This system currently generates all production documents, scripts, artwork, and prompts needed for AI video generation. Actual video synthesis requires access to AI video generation services (Runway Gen-4, Google Veo, Pika, etc.) which may have separate costs, availability requirements, and API access. The system is designed to seamlessly integrate with these services as they become publicly available.
 
 
+**CONTACT
+
 Homepage: [Video Software Lab](https://www.videosoftwarelab.com/)
 Email: info@ai-hive.net
 GitHub: [https://github.com/alessoh/MovieStudio]
+
 For any questions, feedback, or bug reports, please open an issue in the GitHub repository or contact us via email
 
 Acknowl
