@@ -1,0 +1,26 @@
+{
+  "project_name": "AI Movie",
+  "shots": [
+    {
+      "shot_number": 1,
+      "type": "extreme_wide",
+      "description": "Establishing shot of the post-apocalyptic city",
+      "duration": 5,
+      "camera_movement": "static"
+    },
+    {
+      "shot_number": 2,
+      "type": "medium",
+      "description": "Robot protagonist introduction",
+      "duration": 8,
+      "camera_movement": "slow push in"
+    },
+    {
+      "shot_number": 3,
+      "type": "close_up",
+      "description": "Robot's optical sensors focusing",
+      "duration": 3,
+      "camera_movement": "static"
+    }
+  ]
+}

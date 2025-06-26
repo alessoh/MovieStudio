@@ -1,0 +1,17 @@
+{
+  "scene": "Robot discovers flower in ruins",
+  "technical_specs": {
+    "shot_type": "medium",
+    "duration_seconds": 5,
+    "fps": 24,
+    "resolution": "1920x1080",
+    "aspect_ratio": "16:9"
+  },
+  "style_guide": {
+    "cinematography": "cinematic, professional",
+    "lighting": "dramatic, motivated lighting",
+    "color_grade": "cinematic color grading",
+    "camera_movement": "smooth, purposeful"
+  },
+  "prompt_text": "Cinematic video: Robot discovers flower in ruins. Shot type: medium. Professional cinematography, dramatic lighting, smooth camera movement, photorealistic quality."
+}

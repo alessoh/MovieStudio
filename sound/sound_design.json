@@ -1,0 +1,27 @@
+{
+  "scene": "Post-apocalyptic environment with robot protagonist",
+  "sound_layers": {
+    "dialogue": "Character speech and vocals",
+    "foley": "Footsteps, clothing rustles, object handling",
+    "ambience": "Environmental sounds, room tone",
+    "sfx": "Special effects sounds",
+    "music": "Score and source music"
+  },
+  "cue_list": [
+    {
+      "timecode": "00:00:00",
+      "type": "ambience",
+      "description": "Post-apocalyptic city ambience - distant wind, metal creaking"
+    },
+    {
+      "timecode": "00:00:05",
+      "type": "foley",
+      "description": "Robot footsteps on rubble"
+    },
+    {
+      "timecode": "00:00:10",
+      "type": "sfx",
+      "description": "Electronic whirring - robot scanning"
+    }
+  ]
+}
