@@ -236,7 +236,7 @@ Mama, you need to come inside. Air quality's red again.
 
 Emma
 
-![Alt text](./emma1.png)
+![Alt text](./Emma1.png)
 
 SARAH
 Air quality's been red since I can last remember.
