@@ -204,7 +204,49 @@ ai-movie-generator/
 - **transition_guide.md**: Shot connections
 - **vfx_requirements.json**: Special effects needs
 
-## ⚙️ Configuration
+## ⚙️ Sample OUTPUT
+
+Creating a movie about the Dust Bowl: "So Shall Ye Reap"
+
+## The Script Emerges
+
+The opening scene went through seven AI iterations before finding its voice:
+________________________________________
+FADE IN:
+EXT. HADLEY FARM - DAWN - 2040
+What was once 300 acres of cotton now resembles Mars. Red dust swirls in heat shimmer despite the early hour. A digital thermometer on a fence post reads 97°F at 5:47 AM.
+
+Farm
+
+![Alt text](./farm1.png)
+
+SARAH HADLEY (73), leather-faced but unbowed, stands in what used to be her garden. She holds a handful of dust, lets it slip through her fingers.
+
+Sarah
+
+![Alt text](./sarah2.png)
+
+SARAH
+(to the dust)
+Sixty years I fed you. Compost. Manure. Love. This is how you repay me?
+A screen door SLAMS. TOM HADLEY (45), farmer's build gone soft from worry, joins her. His AgriTech uniform is three years out of date.
+
+EMMA
+Mama, you need to come inside. Air quality's red again.
+
+Emma
+
+![Alt text](./emma1.png)
+
+SARAH
+Air quality's been red since I can last remember.
+Tom's smartwatch CHIRPS. He glances at it, his face tightening.
+
+
+VEO Movie clip "So Shall Ye Reap"
+
+[Watch the video](https://youtu.be/hgVDwgjmh5o)
+
 
 ### Modify Style Presets
 
