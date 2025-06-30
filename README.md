@@ -243,9 +243,11 @@ Air quality's been red since I can last remember.
 Tom's smartwatch CHIRPS. He glances at it, his face tightening.
 
 
-VEO Movie clip "So Shall Ye Reap"
+# VEO Movie clip "So Shall Ye Reap"
+________________________________________
 
 [Watch the video](https://youtu.be/hgVDwgjmh5o)
+________________________________________
 
 
 ### Modify Style Presets
